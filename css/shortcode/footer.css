@@ -144,15 +144,15 @@
 }
 .title__line--2 {
     color: #ffffff;
-    font-size: 15px;
+    font-size: 30px;
     font-weight: 500;
     margin-bottom: 25px;
     text-transform: uppercase;
 }
 .footer .ft__details p {
     color: #a4a4a4;
-    font-size: 16px;
-    line-height: 22px;
+    font-size: 24px;
+    line-height: 30px;
 }
 .footer__btn a {
       color: #ffffff;
@@ -167,9 +167,12 @@
 .footer__btn {
     margin-top: 22px;
 }
+.ft__inner .ft__list{
+    text-align: center;
+}
 .ft__list li a {
     color: #a4a4a4;
-    font-size: 16px;
+    font-size: 24px;
     transition: all 0.4s ease 0s;
 }
 .ft__list li + li {
